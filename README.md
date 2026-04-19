@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## ⚠️ Vulnerability Management Projects
-
+-Write ups in Progress-
 - **[Vulnerability Management Program Implementation]()**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]()**
 
