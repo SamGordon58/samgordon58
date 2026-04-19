@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/SamGordon58/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
 
-### PLaybooks & KQL Queries
+### Playbooks & KQL Queries
 
 - **[Comming soon]()**
 
