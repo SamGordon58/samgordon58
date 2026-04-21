@@ -5,9 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## Home Lab
 *Documentation in Progress*
 
-- [Included Systems]()
-- [Network Setup]()
-- [Virtual Machines]()
+- [HomeLab Documentation](https://github.com/SamGordon58/HomeLab)
 
 ## ⚠️ Vulnerability Management Projects
 *Write ups in Progress*
