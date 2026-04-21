@@ -22,8 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Comming soon]()**
 
 ## Scripts
-- **[Powershell]()**
-- **[Bash]()**
+- **[Script Repo](https://github.com/SamGordon58/Scripts)**
 
 ## Useful Links: Tools, Academies, Blogs, Cybersecurity News
 - **[Links Repo](https://github.com/SamGordon58/links)**
