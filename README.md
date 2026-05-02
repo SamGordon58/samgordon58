@@ -1,38 +1,45 @@
-# <a href="https://www.linkedin.com/in/gordon58">Sam Gordon</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Sam Gordon's IT & Cybersecurity Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+> Cybersecurity professional passionate about tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects reflect my work in security operations, GRC, and the ever-evolving cybersecurity landscape.
 
-## Home Lab
-*Documentation in Progress*
-
-- [HomeLab Documentation](https://github.com/SamGordon58/HomeLab)
-
-## ⚠️ Vulnerability Management Projects
-*Write ups in Progress*
-- **[Vulnerability Management Program Implementation](https://github.com/SamGordon58/Vulnerability-Management-Program-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/SamGordon58/Programmatic-Vulnerability-Remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/SamGordon58/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
-
+🌐 **[SamGordon.Tech](https://samgordon.tech)** • 💼 **[LinkedIn](https://linkedin.com/in/Gordon58)**
 
 ---
-### Other Links
-- **[Script Repo](https://github.com/SamGordon58/Scripts)**| **[Save Queries(Coming Soon)]()** | - **[Links Repo](https://github.com/SamGordon58/links)** |
 
-<hr/>
+## 🏠 Home Lab
 
-## 🤳 Connect With Me
-<!--[<img align="left" alt="https://linkedin.com/in/Gordon58 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
--->
-[SamGordon.Tech](https://samgordon.tech)
+Enterprise-inspired network with VLANs, firewalls, and a Wazuh SIEM. *Documentation in progress.*
 
-[linkedin](https://linkedin.com/in/Gordon58)
+- **[HomeLab Documentation](https://github.com/SamGordon58/HomeLab)**
 
+---
 
+## ⚠️ Vulnerability Management Projects
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+*Write-ups in progress.*
+
+- **[Vulnerability Management Program Implementation](https://github.com/SamGordon58/Vulnerability-Management-Program-Implementation)** — End-to-end VM program design and rollout.
+- **[Programmatic Vulnerability Remediations](https://github.com/SamGordon58/Programmatic-Vulnerability-Remediations)** — Remediation scripts in PowerShell, Bash, and shell.
+
+---
+
+## 🚨 Threat Hunting & Security Operations Projets
+
+- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/SamGordon58/Threat-Hunting-Scenario-Tor-Browser-Usage-)** — Detection and investigation walkthrough.
+
+---
+
+## 📂 Additional Resources
+
+| Repository | Description |
+|------------|-------------|
+| **[Scripts](https://github.com/SamGordon58/Scripts)** | Reusable automation and admin scripts |
+| **[Saved Queries](#)** | KQL, SPL, and Wazuh queries *(coming soon)* |
+| **[Links](https://github.com/SamGordon58/links)** | Curated cybersecurity references |
+
+---
+
+## 🤝 Connect With Me
+
+- 🌐 **Website:** [SamGordon.Tech](https://samgordon.tech)
+- 💼 **LinkedIn:** [linkedin.com/in/Gordon58](https://linkedin.com/in/Gordon58)
