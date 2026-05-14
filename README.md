@@ -1,4 +1,6 @@
-# Sam Gordon's IT & Cybersecurity Portfolio 🔐
+<img width="1584" height="396" alt="sam_gordon_linkedin_banner" src="https://github.com/user-attachments/assets/19ca9f4c-aca8-4087-a0bf-d32fc2cc904d" />
+
+# Portfolio
 
 > Cybersecurity professional passionate about tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects reflect my work in security operations, GRC, and the ever-evolving cybersecurity landscape.
 
