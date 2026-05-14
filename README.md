@@ -23,11 +23,13 @@ Enterprise-inspired network with VLANs, firewalls, and a Wazuh SIEM. *Documentat
 - **[Vulnerability Management Program Implementation](https://github.com/SamGordon58/Vulnerability-Management-Program-Implementation)** — End-to-end VM program design and rollout.
 - **[Programmatic Vulnerability Remediations](https://github.com/SamGordon58/Programmatic-Vulnerability-Remediations)** — Remediation scripts in PowerShell, Bash, and shell.
 
+
 ---
 
 ## 🚨 Threat Hunting & Security Operations Projets
 
 - **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/SamGordon58/Threat-Hunting-Scenario-Tor-Browser-Usage-)** — Detection and investigation walkthrough.
+
 
 ---
 
