@@ -10,7 +10,9 @@
 
 ## 🏠 Home Lab
 
-Enterprise-inspired network with VLANs, firewalls, and a Wazuh SIEM. *Documentation in progress.*
+Enterprise-inspired home network with VLANs, firewalls, and a Wazuh SIEM. 
+
+*Documentation in progress.*
 
 - **[HomeLab Documentation](https://github.com/SamGordon58/HomeLab)**
 
